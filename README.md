@@ -9,7 +9,7 @@ This is a take-home assessment project for the front-end developer role at **Fil
 
 ## 🌐 Live Demo
 
-👉 [Deployed Link (Vercel)](https://fillout-page-wn5f-9qlx7xegr-nora-rens-projects.vercel.app/)
+👉 [Deployed Link (Vercel)](https://fillout-page.vercel.app/)
 
 ## 📁 GitHub Repository
 
