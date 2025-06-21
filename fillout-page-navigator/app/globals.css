@@ -1,0 +1,42 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+:focus {
+  box-shadow:
+    0px 1px 3px rgba(0, 0, 0, 0.04),
+    0px 1px 1px rgba(0, 0, 0, 0.02),
+    0px 0px 0px 1.5px rgba(47, 114, 226, 0.25);
+  outline: 1px solid #2f72e2; /* outline */
+}
+
+.group {
+  color: #1a1a1a;
+}
+
+.group:focus {
+  background: #ffffff;
+}
+
+.group:focus .group-item {
+  color: #f59d0e;
+}
+
+.group:active {
+  background: #ffffff;
+}
+
+.group:active .group-item {
+  color: #f59d0e;
+}
+
+.icon {
+  color: #9da4b2;
+}
+
+.icon:focus .icon-item {
+  color: #2f72e2;
+}
+
+.icon:active .icon-item {
+  color: #2f72e2;
+}
